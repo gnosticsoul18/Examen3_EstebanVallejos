@@ -68,6 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AgregarEncuesta.aspx" />
+    <Content Include="BD\EstebanVallejos.sql" />
+    <Content Include="css\Estilos.css" />
+    <Content Include="img\Fondo.jpg" />
+    <Content Include="img\Fondo2.png" />
+    <Content Include="img\Fondo3.jpg" />
     <Content Include="inicio.aspx" />
     <Content Include="ReporteEncuestas.aspx" />
     <Content Include="Web.config" />
@@ -105,6 +110,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Examen3.Master" />
+    <Content Include="BD\EstebanVallejos.bak" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
